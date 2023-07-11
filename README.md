@@ -1,1 +1,3 @@
 # 0006_Relay_Module_ALDP105
+
+You are seeing a large number of widely used Relay modules in electronic development kits. More information coming soon...
